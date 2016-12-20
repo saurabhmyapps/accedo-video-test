@@ -1,0 +1,28 @@
+{
+  "name": "AccedoPlayer",
+  "private": true,
+  "version": "0.0.1",
+  "author": "Saurabh Singh",
+  "dependencies": {
+    "koa": "^1.0.0",
+    "koa-bodyparser": "^2.0.1",
+    "koa-logger": "^1.3.0",
+    "koa-router": "^5.2.3",
+    "koa-static": "^1.4.9",
+    "koa-swig": "^2.0.0",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.1.9",
+    "node-uuid": "^1.4.3",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-less": "^3.0.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-shell": "^0.5.0",
+    "gulp-uglify": "^1.4.1",
+    "gulp-watch": "^4.3.5",
+    "gulp-webpack": "^1.5.0"
+  }
+}
